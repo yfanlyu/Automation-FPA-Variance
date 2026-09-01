@@ -8,7 +8,7 @@ The solution integrates:
 
 - Actual
 - Budget
-- Rolling Forecast V1/V2/V3
+- Rolling Forecast v1/v2/v3
 - Actual vs Budget comparisons
 - Revenue and cost drivers
 - Operational KPIs
@@ -19,9 +19,9 @@ Financial variance -> Materiality -> Business driver -> Management insight
 
 ## Current Status
 
-Sprint 1 — Generate Data Foundation    (done)
-Sprint 2 — Build Financial Engine      (done)
-Sprint 3 — Build Variance Engine       (done)
-Sprint 4 — Driver Analysis          (Planned)
-Sprint 5 — Advanced Analytics       (Planned)
-Sprint 6 — Dashboard                (Planned)
+- Sprint 1 — Generate Data Foundation    (done)
+- Sprint 2 — Build Financial Engine      (done)
+- Sprint 3 — Build Variance Engine       (done)
+- Sprint 4 — Driver Analysis          (Planned)
+- Sprint 5 — Advanced Analytics       (Planned)
+- Sprint 6 — Dashboard                (Planned)
