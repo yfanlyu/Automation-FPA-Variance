@@ -19,9 +19,9 @@ Financial variance -> Materiality -> Business driver -> Management insight
 
 ## Current Status
 
-Sprint 1 — Generate Data Foundation       ✓
-Sprint 2 — Build Financial Engine         ✓
-Sprint 3 — Build Variance Engine          ✓
-Sprint 4 — Driver Analysis          Planned
-Sprint 5 — Advanced Analytics       Planned
-Sprint 6 — Dashboard                Planned
+Sprint 1 — Generate Data Foundation    (done)
+Sprint 2 — Build Financial Engine      (done)
+Sprint 3 — Build Variance Engine       (done)
+Sprint 4 — Driver Analysis          (Planned)
+Sprint 5 — Advanced Analytics       (Planned)
+Sprint 6 — Dashboard                (Planned)
