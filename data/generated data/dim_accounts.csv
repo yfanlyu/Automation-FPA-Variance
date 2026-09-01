@@ -1,0 +1,6 @@
+account_id,account_name,account_type
+REV,Revenue,Revenue
+COGS,COGS,COGS
+PAYROLL,Payroll,OPEX
+MARKETING,Marketing,OPEX
+IT,IT,OPEX
