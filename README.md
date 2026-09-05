@@ -23,5 +23,5 @@ Financial variance -> Materiality -> Business driver -> Management insight
 - Sprint 2 — Build Financial Engine      (done)
 - Sprint 3 — Build Variance Engine       (done)
 - Sprint 4 — Driver Analysis             (done)
-- Sprint 5 — Advanced Analytics       (Planned)
+- Sprint 5 — Persistence Analytics       (done)
 - Sprint 6 — Dashboard                (Planned)
