@@ -1,6 +1,6 @@
 # Automated FP&A Variance & Value-Driver Analysis
 
-An end-to-end, Python-based FP&A analytics pipeline that automates the monthly close review: it builds a multi-version P&L (Actual, Budget, Rolling Forecast v1–v3), quantifies Actual-vs-Budget variances, decomposes revenue variance into price and volume drivers, flags statistically abnormal movements, and surfaces the results in a management dashboard.
+> An end-to-end, Python-based FP&A analytics pipeline that automates the monthly close review: it builds a multi-version P&L (Actual, Budget, Rolling Forecast v1–v3), quantifies Actual-vs-Budget variances, decomposes revenue variance into price and volume drivers, flags statistically abnormal movements, and surfaces the results in a management dashboard.
 
 ## 1. Business Problem
 
